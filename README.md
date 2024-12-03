@@ -4,9 +4,9 @@ My solutions to the [Advent of Code 2024](https://adventofcode.com/2024) problem
 
 | Solutions              | Lang | 💡🕒⭐ |
 | ---------------------- | ---- | ------ |
-| [Day 01](./src/day01/) | ...  | ⭐⭐   |
-| [Day 02](./src/day02/) | ...  | ⭐⭐   |
-| [Day 03](./src/day03/) | ...  | 🕒🕒   |
+| [Day 01](./src/day01/) | Js   | ⭐⭐   |
+| [Day 02](./src/day02/) | Js   | ⭐⭐   |
+| [Day 03](./src/day03/) | Js   | ⭐⭐   |
 | [Day 04](./src/day04/) | ...  | 🕒🕒   |
 | [Day 05](./src/day05/) | ...  | 🕒🕒   |
 | [Day 06](./src/day06/) | ...  | 🕒🕒   |
