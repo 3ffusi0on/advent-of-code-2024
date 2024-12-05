@@ -7,7 +7,7 @@ My solutions to the [Advent of Code 2024](https://adventofcode.com/2024) problem
 | [Day 01](./src/day01/) | Js   | ⭐⭐   |
 | [Day 02](./src/day02/) | Js   | ⭐⭐   |
 | [Day 03](./src/day03/) | Js   | ⭐⭐   |
-| [Day 04](./src/day04/) | ...  | 🕒🕒   |
+| [Day 04](./src/day04/) | Js   | ⭐⭐   |
 | [Day 05](./src/day05/) | ...  | 🕒🕒   |
 | [Day 06](./src/day06/) | ...  | 🕒🕒   |
 | [Day 07](./src/day07/) | ...  | 🕒🕒   |
