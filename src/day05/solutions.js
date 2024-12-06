@@ -111,5 +111,5 @@ function validateRulesOrSwitch(number, orderingRules, currentUpdate) {
   return null;
 }
 
-// console.log("Part 1:", solve1())
+console.log("Part 1:", solve1())
 console.log("Part 2:", solve2())
